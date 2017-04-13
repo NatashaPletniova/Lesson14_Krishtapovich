@@ -1,0 +1,58 @@
+The following bikes types can be rented:
+
+ProductID: 1
+ProductCategoryID : 1
+Name: Bike Wash Dissolver
+ProductBasePrice: 50.0000
+Quantity: 5
+AvailableQuantity: 5
+
+ProductID: 2
+ProductCategoryID : 1
+Name: Mountain Bike Socks
+ProductBasePrice: 100.0000
+Quantity: 3
+AvailableQuantity: 2
+
+ProductID: 4
+ProductCategoryID : 1
+Name: All Purpose Bike Stand
+ProductBasePrice: 20.0000
+Quantity: 2
+AvailableQuantity: 2
+
+The following mountain bikes types can be rented:
+
+ProductID: 2
+ProductCategoryID : 1
+Name: Mountain Bike Socks
+ProductBasePrice: 100.0000
+Quantity: 3
+AvailableQuantity: 2
+
+The following mountain bikes can be rented:
+
+ProductItemID: 6
+ProductID: 0
+Name: Mountain Bike Socks
+AvailableQuantity: 2
+ProductBasePrice: 100.0000
+ManufacturingYear: 2016
+ItemNote : For crazy jumping
+WearRate: 4
+Status: 0
+
+ProductItemID: 8
+ProductID: 0
+Name: Mountain Bike Socks
+AvailableQuantity: 2
+ProductBasePrice: 100.0000
+ManufacturingYear: 2017
+ItemNote : For jumping
+WearRate: 5
+Status: 0
+
+The product item with ProductItemID = 6 was deleted.
+The rent of the product with ProductItemID = 8 was done successfully.
+The new product item was added successfully. 
+The new product item was added successfully. 
